@@ -5,3 +5,5 @@ Welcome to `mat-analysis` organization for Multiple Aspect Trajectory (MAT) Anal
 ## Hi there 👋
 
 We are a community of developers working on Multiple Aspect Trajectory Data Mining. Join us!
+
+Check out our [MAT-Tools Framework](https://github.com/mat-analysis/mat-tools)
